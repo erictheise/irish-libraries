@@ -6,7 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="js/jquery.min.js"></script>
   <link rel="stylesheet" href="css/leaflet.css">
+  <link rel="stylesheet" href="css/leaflet.rrose.css">
   <script src="js/leaflet.js"></script>
+  <script src="js/leaflet.rrose-src.js"></script>
 </head>
 <body>
 <div id="map" style="width: 800px; height: 600px"></div>
@@ -206,15 +208,31 @@
 
               return marker;
             },
+//            onEachFeature: function (feature, layer) {
+//              layer.bindPopup(
+//                '<div class="center">' +
+//                  '<b>'+feature.properties.branch+'</b><br/>' +
+//                  feature.properties.address1+'<br/>' +
+//                  feature.properties.address2+'<br/>' +
+//                  feature.properties.address3+'<br/>' +
+//                '</div>'
+//              );
+//            }
             onEachFeature: function (feature, layer) {
-              layer.bindPopup(
-                '<div class="center">' +
-                  '<b>'+feature.properties.branch+'</b><br/>' +
-                  feature.properties.address1+'<br/>' +
-                  feature.properties.address2+'<br/>' +
-                  feature.properties.address3+'<br/>' +
-                '</div>'
-              );
+              layer.on('mouseover mousemove', function(e) {
+                var hover_bubble = new L.Rrose({ offset: new L.Point(0,-10), closeButton: false, autoPan: false })
+                  .setContent(
+                    '<div class="center">' +
+                      '<b>'+feature.properties.branch+'</b><br/>' +
+                      feature.properties.address1+'<br/>' +
+                      feature.properties.address2+'<br/>' +
+                      feature.properties.address3+'<br/>' +
+                    '</div>'
+                  )
+                  .setLatLng(e.latlng)
+                  .openOn(map);
+              });
+              layer.on('mouseout', function(e) { map.closePopup() });
             }
           }).addTo(map);
         });
