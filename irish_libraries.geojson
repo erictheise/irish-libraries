@@ -1,0 +1,5853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.2715448775205,
+          52.1405893563432
+        ]
+      },
+      "properties": {
+        "authority": "Kerry County Library",
+        "branch": "Dingle Library",
+        "address1": "Dingle",
+        "address2": "Co. Kerry",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.92166771794273,
+          52.5989513962522
+        ]
+      },
+      "properties": {
+        "authority": "Carlow County Library",
+        "branch": "Borris",
+        "address1": "Main Street",
+        "address2": "Borris",
+        "address3": "Co. Carlow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.92807183079713,
+          52.8363276040514
+        ]
+      },
+      "properties": {
+        "authority": "Carlow County Library",
+        "branch": "Carlow Central Library",
+        "address1": "Tullow Street",
+        "address2": "Carlow",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.95845074214699,
+          52.7023323009372
+        ]
+      },
+      "properties": {
+        "authority": "Carlow County Library",
+        "branch": "Muinebheag Library",
+        "address1": "Barrack Street",
+        "address2": "Bagenalstown",
+        "address3": "Co. Carlow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.73739391444397,
+          52.8035238416298
+        ]
+      },
+      "properties": {
+        "authority": "Carlow County Library",
+        "branch": "Tullow Library",
+        "address1": "Link Road",
+        "address2": "Tullow",
+        "address3": "Co. Carlow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.58289057266703,
+          53.9240975108039
+        ]
+      },
+      "properties": {
+        "authority": "Cavan County Library",
+        "branch": "Arva Library",
+        "address1": "Market House",
+        "address2": "Arva",
+        "address3": "Co. Cavan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.96843090434588,
+          53.9158352991352
+        ]
+      },
+      "properties": {
+        "authority": "Cavan County Library",
+        "branch": "Bailieboro Library",
+        "address1": "Market House",
+        "address2": "Bailieboro",
+        "address3": "Co. Cavan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.58557719804864,
+          54.1168201691955
+        ]
+      },
+      "properties": {
+        "authority": "Cavan County Library",
+        "branch": "Ballyconnell Library",
+        "address1": "Church Street",
+        "address2": "Ballyconnell",
+        "address3": "Co. Cavan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.20772204460243,
+          53.8620268682177
+        ]
+      },
+      "properties": {
+        "authority": "Cavan County Library",
+        "branch": "Ballyjamesduff Library",
+        "address1": "Health Centre",
+        "address2": "Percy French Park",
+        "address3": "Ballyjamesduff, Co. Cavan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.44613501530893,
+          54.1003722182123
+        ]
+      },
+      "properties": {
+        "authority": "Cavan County Library",
+        "branch": "Belturbet Library",
+        "address1": "Town Hall",
+        "address2": "Belturbet",
+        "address3": "Co. Cavan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.36232354082966,
+          53.9923494415295
+        ]
+      },
+      "properties": {
+        "authority": "Cavan County Library",
+        "branch": "Cavan Town Library",
+        "address1": "Farnham Street",
+        "address2": "Cavan",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.08372732334215,
+          54.07336568494
+        ]
+      },
+      "properties": {
+        "authority": "Cavan County Library",
+        "branch": "Cootehill Library",
+        "address1": "Bridge Street",
+        "address2": "Cootehill",
+        "address3": "Co. Cavan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.53111555427562,
+          54.0133270133106
+        ]
+      },
+      "properties": {
+        "authority": "Cavan County Library",
+        "branch": "Killeshandra Library",
+        "address1": "Community Centre, Railway Road,",
+        "address2": "Killeshandra",
+        "address3": "Co. Cavan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.80632834186186,
+          53.9045737533337
+        ]
+      },
+      "properties": {
+        "authority": "Cavan County Library",
+        "branch": "Kingscourt Library",
+        "address1": "St. Mary’s Hall",
+        "address2": "Kingscourt",
+        "address3": "Co. Cavan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.06771333455206,
+          53.8316169677692
+        ]
+      },
+      "properties": {
+        "authority": "Cavan County Library",
+        "branch": "Virginia Library",
+        "address1": "Health Centre",
+        "address2": "Bailieboro Road",
+        "address3": "Co. Cavan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.06356256638551,
+          52.9446098466207
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Corofin Library",
+        "address1": "Corofin",
+        "address2": "Co. Clare.",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.98380616418478,
+          52.845988776854
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "De Valera Library",
+        "address1": "Harmony Row",
+        "address2": "Ennis",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2942486818091,
+          52.9404967116401
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Ennistymon Library",
+        "address1": "The Square",
+        "address2": "Ennistymon",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.10463997518245,
+          52.672935532079
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Kildysart Public Library",
+        "address1": "St. John Bosco's Community College",
+        "address2": "Kildysart",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7741595203425,
+          52.7423185388527
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Kilfinaghty Public Library (Sixmilebridge)",
+        "address1": "Church Street",
+        "address2": "Sixmilebridge",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.64381315585807,
+          52.6796991727905
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Kilkee - Sweeney Memorial Library",
+        "address1": "O'Connell Street",
+        "address2": "Kilkee",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.44021983367386,
+          52.8075003330475
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Killaloe Library",
+        "address1": "The Lock House",
+        "address2": "Killaloe",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.31542877110939,
+          52.7192316442935
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Kilmihill Library",
+        "address1": "St. Michael's Community Centre",
+        "address2": "Church Street",
+        "address3": "Kilmihill, Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4887715334392,
+          52.638368419004
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Kilrush Library",
+        "address1": "O Gorman Street",
+        "address2": "Kilrush",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.29044335854895,
+          53.0290619025718
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Lisdoonvarna Library",
+        "address1": "Kincora Road",
+        "address2": "Lisdoonvarna",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.98568935558315,
+          52.8465483917455
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Local Studies",
+        "address1": "The Manse, Harmony Row",
+        "address2": "Ennis",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.39523492691466,
+          52.8565263842277
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Miltown Malbay - Dr. Patrick J. Hillery Public Library",
+        "address1": "Ballard Road",
+        "address2": "Miltown Malbay",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.89792328889425,
+          52.7609054294239
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Newmarket-on-Fergus Library",
+        "address1": "Kilnasoolagh Park",
+        "address2": "Newmarket-on-Fergus",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.52993097340913,
+          52.9105829261955
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Scariff Library",
+        "address1": "Mountshannont Road",
+        "address2": "Scariff",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.87997231438653,
+          52.7090166076974
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Shannon - Sean Lemass Library",
+        "address1": "Town Centre",
+        "address2": "Shannon",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.75582661450314,
+          52.8672885206996
+        ]
+      },
+      "properties": {
+        "authority": "Clare County Library",
+        "branch": "Tulla Library",
+        "address1": "The Market House",
+        "address2": "Tulla",
+        "address3": "Co. Clare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.52057493547399,
+          51.8737139062026
+        ]
+      },
+      "properties": {
+        "authority": "Cork City Libraries",
+        "branch": "Bishopstown Library",
+        "address1": "Wilton Shopping Centre",
+        "address2": "Cork",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.47227851559219,
+          51.9130746921613
+        ]
+      },
+      "properties": {
+        "authority": "Cork City Libraries",
+        "branch": "Blackpool Library",
+        "address1": "Redforge Road",
+        "address2": "Cork",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.47582536116369,
+          51.8965921931202
+        ]
+      },
+      "properties": {
+        "authority": "Cork City Libraries",
+        "branch": "City Library",
+        "address1": "57-61 Grand Parade",
+        "address2": "Cork",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4386601451861,
+          51.8774457280955
+        ]
+      },
+      "properties": {
+        "authority": "Cork City Libraries",
+        "branch": "Douglas Library",
+        "address1": "Douglas Shopping Centre",
+        "address2": "Douglas",
+        "address3": "Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.50567009826759,
+          51.9056637119285
+        ]
+      },
+      "properties": {
+        "authority": "Cork City Libraries",
+        "branch": "Hollyhill Library",
+        "address1": "Foyle Avenue",
+        "address2": "Knonknaheeny",
+        "address3": "Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.44444995790009,
+          51.9107919382881
+        ]
+      },
+      "properties": {
+        "authority": "Cork City Libraries",
+        "branch": "Mayfield Community Library (Frank O'Connor Library)",
+        "address1": "Old Youghal Road",
+        "address2": "Mayfield",
+        "address3": "Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.47248181849963,
+          51.8839668187939
+        ]
+      },
+      "properties": {
+        "authority": "Cork City Libraries",
+        "branch": "Tory Top Road Library",
+        "address1": "Tory Top Road",
+        "address2": "Ballyphehane",
+        "address3": "Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.59319536973187,
+          51.8875013527331
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Ballincollig Library",
+        "address1": "Village Shopping Centre",
+        "address2": "Ballincollig",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.85408063777751,
+          53.5143745589926
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Tuam Library",
+        "address1": "High Street",
+        "address2": "Tuam",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.14453772017249,
+          51.9361180375519
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Ballyvourney Library",
+        "address1": "Ballyvourney",
+        "address2": "Ballymakeera",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7379173553617,
+          51.7446856683302
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Bandon Library",
+        "address1": "South Main Stree",
+        "address2": "Bandon",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.44925794403394,
+          51.6785428275537
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Bantry Library",
+        "address1": "Bridge Street",
+        "address2": "Bantry",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.56813628397688,
+          51.9324362813945
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Blarney Library",
+        "address1": "The Square",
+        "address2": "Blarney",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6444049876377,
+          53.9770436052693
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Carrigaline Library",
+        "address1": "Main Street",
+        "address2": "Carrigaline",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.91280323375382,
+          51.6503747911045
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Castletownbere Library",
+        "address1": "Bank Place",
+        "address2": "Castletownbere",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.68321144257645,
+          52.353935294161
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Charleville Library",
+        "address1": "Main Street",
+        "address2": "Charleville",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.88967077644043,
+          51.6223366576148
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Clonakilty Library",
+        "address1": "The Old Mill",
+        "address2": "Kent Street",
+        "address3": "Clonakilty, Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.29546917061215,
+          51.8506730507988
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Cobh Library",
+        "address1": "Arch Building",
+        "address2": "Casement Square",
+        "address3": "Cobh, Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.50939068287798,
+          51.892829041569
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "County Library Headquarters",
+        "address1": "Carrigrohane Road",
+        "address2": "Cork",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.11400287675335,
+          51.7217293076223
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Dunmanway Library",
+        "address1": "The Square",
+        "address2": "Dunmanway",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.27553723143083,
+          52.1372732250153
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Fermoy Library",
+        "address1": "Connolly Street",
+        "address2": "Fermoy",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3974922902787,
+          51.930933780767
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Glanmire Library",
+        "address1": "Hazelwood Shopping Centre",
+        "address2": "Glanmire",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26457788757355,
+          53.349695186
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Central Library",
+        "address1": "ILAC Centre",
+        "address2": "Henry Street",
+        "address3": "Dublin 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.90567365859479,
+          52.1773367895011
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Kanturk Library",
+        "address1": "Main Street",
+        "address2": "Kanturk",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.52323254906856,
+          51.7058432235594
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Kinsale Library",
+        "address1": "Methodist Hall",
+        "address2": "Market Quay",
+        "address3": "Kinsale, Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.50575126640517,
+          51.4364408789815
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Leabharlann Oilean Chléire",
+        "address1": "An Sciobairín",
+        "address2": "Cape Clear",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9583681592622,
+          51.9046279561113
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Macroom Library",
+        "address1": "Briery Gap Library & Theatre",
+        "address2": "Main Street",
+        "address3": "Macroom, Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.64155933372268,
+          52.1352298932038
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Mallow Library",
+        "address1": "Thomas Davis Street",
+        "address2": "Main Street",
+        "address3": "Mallow, Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.17281241064851,
+          51.9139941750889
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Midleton Library",
+        "address1": "Main Street",
+        "address2": "Midleton",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.05871543165172,
+          51.7002334863405
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Millstreet Library",
+        "address1": "Council Offices",
+        "address2": "Main Street",
+        "address3": "Millstreet, Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2743764175926,
+          52.2668210159152
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Mitchelstown Library",
+        "address1": "Council Offices",
+        "address2": "Georges Street",
+        "address3": "Mitchelstown, Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9995218071453,
+          52.2154385263218
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Newmarket Library",
+        "address1": "Scarteen Street",
+        "address2": "Newmarket",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.33638856528055,
+          51.8722541744378
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Passage West Library",
+        "address1": "Community Centre",
+        "address2": "Passage West",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.54500919384397,
+          51.5268330085334
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Schull Library",
+        "address1": "21 Upper Main Street",
+        "address2": "Schull",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.40682775314109,
+          51.4733618952136
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Sherkin Island Library",
+        "address1": "Community Centre",
+        "address2": "Sherkin Island",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.26479103391517,
+          51.5516666307467
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Skibbereen Library",
+        "address1": "North Street",
+        "address2": "Skibbereen",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.85110528950081,
+          51.9558710606702
+        ]
+      },
+      "properties": {
+        "authority": "Cork County Council  Library Service",
+        "branch": "Youghal Library",
+        "address1": "Rivergate Shopping Centre, North Main Street",
+        "address2": "Youghal",
+        "address3": "Co. Cork"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.78153542336022,
+          54.7981675289882
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Ballybofey Branch Library",
+        "address1": "Ballybofey",
+        "address2": "Lifford",
+        "address3": "Co. Donegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.19187659095489,
+          54.5031277266498
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Ballyshannon Library",
+        "address1": "Ballyshannon",
+        "address2": "Donegal",
+        "address3": "Co. Donegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.45504851886284,
+          55.1339296557926
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Buncrana Community Library",
+        "address1": "St. Mary's Road",
+        "address2": "Buncrana, Lifford",
+        "address3": "Co. Donegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.27790663391239,
+          54.4786016354114
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Bundoran Community Library",
+        "address1": "Station Road",
+        "address2": "Bundoran, Donegal",
+        "address3": "Co. Donegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.26165201108748,
+          55.2523683190862
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Cardonagh Library",
+        "address1": "Public Services Centre",
+        "address2": "Carndonagh, Lifford",
+        "address3": "Co. Donegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.73787401354942,
+          54.9484035009181
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Central Library and Arts Centre",
+        "address1": "Oliver Plunkett  Road",
+        "address2": "Letterkenny",
+        "address3": "Co. Donegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.11340434322225,
+          54.6551644325655
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Donegal Town Branch Library",
+        "address1": "Donegal",
+        "address2": "Co. Donegal",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.29603208374568,
+          55.0676394851324
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Leabharlann Ghaoith Dobhair",
+        "address1": "Aislann Na doiri beaga",
+        "address2": "LeitirCeanainn",
+        "address3": "Co. Donegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.36504550685827,
+          54.9509412659012
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Leabharlann Phobail na Rosann",
+        "address1": "Ionad Teampaill Chróine",
+        "address2": "An Chlochán Liath / Dungloe, Letterkenny",
+        "address3": "Co. Donegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.47905730850186,
+          54.8334999394893
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Lifford Library",
+        "address1": "Lifford Community Courthouse",
+        "address2": "The Diamond, Lifford",
+        "address3": "Co. Donegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.69903833754058,
+          55.0861531782882
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Milford Library",
+        "address1": "Public Services Centre",
+        "address2": "Milford, Letterkenny",
+        "address3": "Co. Donegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.04060284665122,
+          55.1889095211707
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Moville Library",
+        "address1": "Moville",
+        "address2": "Lifford",
+        "address3": "Co. Donegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.59260251677971,
+          54.8012024213962
+        ]
+      },
+      "properties": {
+        "authority": "Donegal County Library",
+        "branch": "Raphoe Branch Library",
+        "address1": "The Diamond",
+        "address2": "Raphoe, Letterkenny",
+        "address3": "Co. Donegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.35210411072569,
+          53.3399977368774
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Ballyfermot Library",
+        "address1": "Ballyfermot Road",
+        "address2": null,
+        "address3": "Dublin 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26505912830656,
+          53.3903552476275
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Ballymun Library",
+        "address1": "Main Street",
+        "address2": "Dublin 11",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2996716163964,
+          53.3616602195482
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Cabra Library",
+        "address1": "Navan Road",
+        "address2": "Dublin 7",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24618902255865,
+          53.3570841831756
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Charleville Mall Library",
+        "address1": "North Strand",
+        "address2": "Dublin 1",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.21219805105313,
+          53.3963612409155
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Coolock Library",
+        "address1": "Barryscourt Road",
+        "address2": "Dublin 5",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.29192910804974,
+          53.3313407390869
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Dolphins Barn Library",
+        "address1": "Parnell Road",
+        "address2": "Dublin 8",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.13794710882944,
+          53.3965743118696
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Donaghmede Library",
+        "address1": "Donaghmede Shopping Centre",
+        "address2": "Dublin 13",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2573360985008,
+          53.3699836322075
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Drumcondra Library",
+        "address1": "Millmount Avenue",
+        "address2": "Dublin 9",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24536758955567,
+          53.343068601225
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Dublin and Irish Local Studies/City Archives/Admin Centre",
+        "address1": "138-144 Pearse Street",
+        "address2": "Dublin 2",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.29877936849296,
+          53.389330609688
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Finglas Library",
+        "address1": "Finglas Shopping Centre",
+        "address2": "Jamestown Road",
+        "address3": "Dublin 11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.31005224488223,
+          53.340443108038
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Inchicore Library",
+        "address1": "34 Emmet Road",
+        "address2": "Dublin 8",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26765501003658,
+          53.3375250645975
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Kevin Street Library",
+        "address1": "18 Lower Kevin Street",
+        "address2": "Dublin 8",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.23123872391276,
+          53.3643775856646
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Marino Library",
+        "address1": "14-20 Marino Mart",
+        "address2": "Dublin 3",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24536758955567,
+          53.343068601225
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Pearse Street Library",
+        "address1": "138-144 Pearse Street",
+        "address2": "Dublin 2",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.23051796658281,
+          53.3280996937712
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Pembroke Library",
+        "address1": "Anglesea Road",
+        "address2": "Ballsbridge",
+        "address3": "Dublin 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.27105437603908,
+          53.361141164272
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Phibsboro Library",
+        "address1": "Blackquiere Bridge",
+        "address2": "Dublin 7",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.17316964947215,
+          53.3799870880255
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Raheny Library",
+        "address1": "Howth Road",
+        "address2": "Raheny",
+        "address3": "Dublin 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26565920491124,
+          53.3241666726914
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Rathmines Library",
+        "address1": "157 Rathmines Road",
+        "address2": "Dublin 6",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.22643366281655,
+          53.3415033257107
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Ringsend Library",
+        "address1": "Fitzwilliam Street",
+        "address2": "Dublin 4",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.28526064653831,
+          53.3089275776896
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Terenure Library",
+        "address1": "Templeogue Road",
+        "address2": "Dublin 6",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3218572242723,
+          53.3186159717704
+        ]
+      },
+      "properties": {
+        "authority": "Dublin City Public Libraries",
+        "branch": "Walkinstown Library",
+        "address1": "Percy French Road",
+        "address2": "Walkinstown",
+        "address3": "Dublin 12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.17548651999021,
+          53.3008001740914
+        ]
+      },
+      "properties": {
+        "authority": "Dun Laoghaire-Rathdown Public Library Service",
+        "branch": "Blackrock Library",
+        "address1": "Main Street",
+        "address2": "Blackrock",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.14948428871628,
+          53.2598440183434
+        ]
+      },
+      "properties": {
+        "authority": "Dun Laoghaire-Rathdown Public Library Service",
+        "branch": "Cabinteely Library",
+        "address1": "Old Bray Road",
+        "address2": "Cabinteely",
+        "address3": "Dublin 18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.10466166426465,
+          53.2771885042465
+        ]
+      },
+      "properties": {
+        "authority": "Dun Laoghaire-Rathdown Public Library Service",
+        "branch": "Dalkey Library",
+        "address1": "Castle Street",
+        "address2": "Dalkey",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.16467780254699,
+          53.2774893692351
+        ]
+      },
+      "properties": {
+        "authority": "Dun Laoghaire-Rathdown Public Library Service",
+        "branch": "Deansgrange Library",
+        "address1": "Clonkeen Drive",
+        "address2": "Deansgrange",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.13301777389936,
+          53.2927004650423
+        ]
+      },
+      "properties": {
+        "authority": "Dun Laoghaire-Rathdown Public Library Service",
+        "branch": "dlrLexicon",
+        "address1": "Haigh Terrace",
+        "address2": "Moran Park, Dún Laoghaire",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24681988256163,
+          53.2926483319594
+        ]
+      },
+      "properties": {
+        "authority": "Dun Laoghaire-Rathdown Public Library Service",
+        "branch": "Dundrum Library",
+        "address1": "Upper Churchtown Road",
+        "address2": "Dundrum",
+        "address3": "Dublin 14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.12704088489147,
+          53.2335078948141
+        ]
+      },
+      "properties": {
+        "authority": "Dun Laoghaire-Rathdown Public Library Service",
+        "branch": "Shankill Library",
+        "address1": "Library Road",
+        "address2": "Shankill",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.19667013963425,
+          53.289815155571
+        ]
+      },
+      "properties": {
+        "authority": "Dun Laoghaire-Rathdown Public Library Service",
+        "branch": "Stillorgan Library",
+        "address1": "St. Laurence’s Park",
+        "address2": "Stillorgan",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1821792370519,
+          53.6085192713583
+        ]
+      },
+      "properties": {
+        "authority": "Fingal County Libraries",
+        "branch": "Balbriggan Library",
+        "address1": "George’s Square",
+        "address2": "Balbriggan",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.12574429045287,
+          53.3967338734983
+        ]
+      },
+      "properties": {
+        "authority": "Fingal County Libraries",
+        "branch": "Baldoyle Library",
+        "address1": "Strand Road",
+        "address2": "Baldoyle ",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.39108425831886,
+          53.3907812076667
+        ]
+      },
+      "properties": {
+        "authority": "Fingal County Libraries",
+        "branch": "Blanchardstown Library",
+        "address1": "Civic Centre",
+        "address2": "Blanchardstown Centre",
+        "address3": "Dublin 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.38295662466584,
+          53.566112620666
+        ]
+      },
+      "properties": {
+        "authority": "Fingal County Libraries",
+        "branch": "Garristown Library ",
+        "address1": "Main Street",
+        "address2": "Garristown",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.06468780727686,
+          53.3855038672006
+        ]
+      },
+      "properties": {
+        "authority": "Fingal County Libraries",
+        "branch": "Howth Library",
+        "address1": "Main Street",
+        "address2": "Howth",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.15333577155878,
+          53.4506164946432
+        ]
+      },
+      "properties": {
+        "authority": "Fingal County Libraries",
+        "branch": "Malahide Library",
+        "address1": "Main Street",
+        "address2": "Malahide",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.22923310386342,
+          53.4623087619008
+        ]
+      },
+      "properties": {
+        "authority": "Fingal County Libraries",
+        "branch": "Swords Library",
+        "address1": "Rathbeale Road",
+        "address2": "Swords",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.10199019000319,
+          53.5218426256327
+        ]
+      },
+      "properties": {
+        "authority": "Fingal County Libraries",
+        "branch": "Rush Library",
+        "address1": "Chapel Green",
+        "address2": "Rush",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.10659302486041,
+          53.5785673582751
+        ]
+      },
+      "properties": {
+        "authority": "Fingal County Libraries",
+        "branch": "Skerries Library",
+        "address1": "Strand Street",
+        "address2": "Skerries",
+        "address3": "Co. Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.74891172903954,
+          53.2976467608763
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Athenry Library",
+        "address1": "Main Street",
+        "address2": "Athenry",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.22639185907444,
+          53.3312823392979
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Balinasloe Library",
+        "address1": "Society Street",
+        "address2": "Balinasloe",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.00297939833145,
+          53.2824346029749
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Ballybane Library",
+        "address1": "Castlepark Road",
+        "address2": "Ballybane",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.32239162842123,
+          53.523281219873
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Balygar Library",
+        "address1": "Main Street",
+        "address2": "Balygar",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.60184711878075,
+          53.262896703348
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Carraroe Library",
+        "address1": "An Scailp Chulturtha",
+        "address2": "An Ceathrú",
+        "address3": "Co.na Gaillimh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.0212412755483,
+          53.4877698367306
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Clifden Library",
+        "address1": "Main Street",
+        "address2": "Clifden",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.74442192160616,
+          53.6176472346155
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Dunmore Library",
+        "address1": "Main Street",
+        "address2": "Dunmore",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13081493044306,
+          53.2016613201047
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Eyrecourt Library",
+        "address1": "Main Street",
+        "address2": "Eyrecourt",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.05169183957002,
+          53.2716254506547
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Galway City Library",
+        "address1": "St. Augustine Street",
+        "address2": "Galway",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.55993837095791,
+          53.6075898980473
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Glenamaddy Library",
+        "address1": "Main Street",
+        "address2": "Glenamaddy",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.81986318511241,
+          53.0651785130422
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Gort Library",
+        "address1": "Queen Street",
+        "address2": "Gort",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.10907138148071,
+          53.4695827156141
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Headford Library",
+        "address1": "Headford",
+        "address2": "Co. Galway",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.2129145306848,
+          53.6141684725387
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Inisbofin Library",
+        "address1": "Inishbofin",
+        "address2": "Co. Galway",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.59990011246426,
+          53.2645496860013
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Inisheer Library",
+        "address1": "Inisheer",
+        "address2": "Aran Islands",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.58424132957606,
+          53.0848789298742
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Inishmaan Library",
+        "address1": "Inismaan",
+        "address2": "Aran Islands",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.29087162065419,
+          53.1655730959432
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Killimor Public Library",
+        "address1": "Main Street",
+        "address2": "Killimor",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.66807541743397,
+          53.1210438879415
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Kilronan Library",
+        "address1": "Kilronan",
+        "address2": "Co. Galway",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.69165796110983,
+          53.5941557690263
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Leenane Library",
+        "address1": "Leenane",
+        "address2": "Co. Galway",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.94792127764393,
+          53.5531363502841
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Letterfrack Library",
+        "address1": "Letterfrack Furniture College",
+        "address2": "Letterfrack",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.56690619827345,
+          53.1981917241755
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Loughrea Library",
+        "address1": "Church Street",
+        "address2": "Loughrea",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.56574352335979,
+          53.4878500977591
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Moylough Library",
+        "address1": "Main Street",
+        "address2": "Moylough",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.07915610050927,
+          53.2661852780818
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Oranmore Library",
+        "address1": "Main Street",
+        "address2": "Oranmore",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.32359297309131,
+          53.4280068341871
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Oughterard Library",
+        "address1": "Main Street",
+        "address2": "Oughterard",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.22070584742841,
+          53.0902216553318
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Portumna Library",
+        "address1": "Main Street",
+        "address2": "Portumna",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.91902658298351,
+          53.3984583262398
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Roundstone Library",
+        "address1": "Seaview",
+        "address2": "Roundstone",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.30379460998837,
+          53.2440415627523
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Spiddal Library",
+        "address1": "Main Street",
+        "address2": "Spiddal",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.07448921665546,
+          53.2773539368661
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Westside Library",
+        "address1": "Seamus Quirke Road",
+        "address2": "Galway",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.40003955557278,
+          53.0526090841353
+        ]
+      },
+      "properties": {
+        "authority": "Galway County Libraries",
+        "branch": "Woodford Library",
+        "address1": "Main Street",
+        "address2": "Woodford",
+        "address3": "Co. Galway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.67746982148243,
+          52.5083811360812
+        ]
+      },
+      "properties": {
+        "authority": "Kerry County Library",
+        "branch": "Ballybunion Library",
+        "address1": "Sandhill Road",
+        "address2": "Ballybunion",
+        "address3": "Co. Kerry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.2230473986998,
+          51.947596589705
+        ]
+      },
+      "properties": {
+        "authority": "Kerry County Library",
+        "branch": "Cahirciveen Library",
+        "address1": "Cahirciveen",
+        "address2": "Co. Kerry",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.46787768621012,
+          52.2303006670897
+        ]
+      },
+      "properties": {
+        "authority": "Kerry County Library",
+        "branch": "Castleisland Library",
+        "address1": "Area Services Centre, Station Road",
+        "address2": "Castleisland",
+        "address3": "Co. Kerry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.58050097273366,
+          51.879091717185
+        ]
+      },
+      "properties": {
+        "authority": "Kerry County Library",
+        "branch": "Kenmare Library",
+        "address1": "Shelbourne Street",
+        "address2": "Kenmare",
+        "address3": "Co. Kerry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.51139541683829,
+          52.0626900248068
+        ]
+      },
+      "properties": {
+        "authority": "Kerry County Library",
+        "branch": "Killarney Library",
+        "address1": "Rock Road",
+        "address2": "Killarney",
+        "address3": "Co. Kerry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.78874722443434,
+          52.1072077497861
+        ]
+      },
+      "properties": {
+        "authority": "Kerry County Library",
+        "branch": "Killorglin Library",
+        "address1": "Library Place",
+        "address2": "Killorglin",
+        "address3": "Co. Kerry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.48268556582979,
+          52.4489850915448
+        ]
+      },
+      "properties": {
+        "authority": "Kerry County Library",
+        "branch": "Listowel Library",
+        "address1": "Civic Centre",
+        "address2": "Listowel",
+        "address3": "Co. Kerry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.69838783961739,
+          52.2668344236924
+        ]
+      },
+      "properties": {
+        "authority": "Kerry County Library",
+        "branch": "Tralee Library & Admin HQ",
+        "address1": "Moyderwell",
+        "address2": "Tralee",
+        "address3": "Co. Kerry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98371375082033,
+          52.9913561049705
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Athy Community Library",
+        "address1": "The Courthouse",
+        "address2": "Emily Square, Athy",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81576925650172,
+          53.0098541008014
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Ballitore Library",
+        "address1": "Mary Leadbetter House",
+        "address2": "Ballitore",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.83752868546409,
+          52.9109759032886
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Castledermot Library",
+        "address1": "Main Street",
+        "address2": "Castledermot",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81045802991964,
+          53.3420864129884
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Celbridge Library",
+        "address1": "St. Patrick’s Park",
+        "address2": "Celbridge",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.68652981481423,
+          53.2933228302264
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Clane Library",
+        "address1": "The Woods",
+        "address2": "Clane",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.01473101287058,
+          53.3977457107046
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Clocha Rince",
+        "address1": "Co. Kildare",
+        "address2": null,
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.66846402866118,
+          53.4000032874529
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Kilcock Library",
+        "address1": "Butler's Lane, Main Street",
+        "address2": "Kilcock",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.74421532221565,
+          53.1302235473417
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Kilcullen Library",
+        "address1": "New Abbey Road",
+        "address2": "Kilcullen",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.90824975203363,
+          53.1555502049659
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Kildare Library",
+        "address1": "Kildare Town Centre",
+        "address2": "Claregate st., Kildare",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.48647341493863,
+          53.3719770222082
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Leixlip Library ",
+        "address1": "New Town House",
+        "address2": "Leixlip",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.589183308223,
+          53.381809526766
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Maynooth Library",
+        "address1": "Main Street",
+        "address2": "Maynooth",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.06180568404599,
+          53.1384523135013
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Monasterevin Library",
+        "address1": "Water Mill Place",
+        "address2": "Monasterevin",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.66758859687947,
+          53.2169864392887
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Naas Library",
+        "address1": "Harbour View",
+        "address2": "Naas",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.79394913217857,
+          53.1819051183942
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Newbridge Library",
+        "address1": "Athgarvan Road",
+        "address2": "Newbridge",
+        "address3": "Co. Kildare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.99313711533651,
+          53.2211433299957
+        ]
+      },
+      "properties": {
+        "authority": "Kildare Library and Arts Services",
+        "branch": "Rathangan Library",
+        "address1": "Rathangan",
+        "address2": "Co. Kildare",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3931016997205,
+          52.5406189662961
+        ]
+      },
+      "properties": {
+        "authority": "Kilkenny County Library Service",
+        "branch": "Callan Library",
+        "address1": "Clonmel Road",
+        "address2": "Callan",
+        "address3": "Co. Kilkenny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.20991135449101,
+          52.8025411358438
+        ]
+      },
+      "properties": {
+        "authority": "Kilkenny County Library Service",
+        "branch": "Castlecomer Library",
+        "address1": "Kilkenny Street",
+        "address2": "Castlecomer",
+        "address3": "Co. Kilkenny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.25018740223398,
+          52.6534207014848
+        ]
+      },
+      "properties": {
+        "authority": "Kilkenny County Library Service",
+        "branch": "City Branch",
+        "address1": "John’s Quay",
+        "address2": "Kilkenny",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.95471283400265,
+          52.5421527271119
+        ]
+      },
+      "properties": {
+        "authority": "Kilkenny County Library Service",
+        "branch": "Graiguenamanagh Library",
+        "address1": "Convent Lane",
+        "address2": "Graiguenamanagh",
+        "address3": "Co. Kilkenny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.09759057543204,
+          52.2681318742991
+        ]
+      },
+      "properties": {
+        "authority": "Kilkenny County Library Service",
+        "branch": "Ferrybank Library",
+        "address1": "Ferrybank",
+        "address2": "Waterford",
+        "address3": "Co. Kilkenny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.24221985470126,
+          52.6415235787234
+        ]
+      },
+      "properties": {
+        "authority": "Kilkenny County Library Service",
+        "branch": "Loughboy Library",
+        "address1": "Loughboy Shopping Centre",
+        "address2": "Waterford Road",
+        "address3": "Kilkenny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.14018465667149,
+          52.5250481433327
+        ]
+      },
+      "properties": {
+        "authority": "Kilkenny County Library Service",
+        "branch": "Thomastown Library",
+        "address1": "Marsh’s Street",
+        "address2": "Thomastown",
+        "address3": "Co. Kilkenny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.57973652967072,
+          52.7220620334601
+        ]
+      },
+      "properties": {
+        "authority": "Kilkenny County Library Service",
+        "branch": "Urlingford Library",
+        "address1": "The Courthouse",
+        "address2": "Urlingford",
+        "address3": "Co. Kilkenny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.34875729728432,
+          52.9143119843257
+        ]
+      },
+      "properties": {
+        "authority": "Laois County Library",
+        "branch": "Abbeyleix Library",
+        "address1": "Abbeyleix",
+        "address2": "Co. Laois",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0424020590956,
+          52.9171900620321
+        ]
+      },
+      "properties": {
+        "authority": "Laois County Library",
+        "branch": "Ballylinan Library",
+        "address1": "Ballylinan",
+        "address2": "Co. Laois",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.62818831393342,
+          52.9390445862081
+        ]
+      },
+      "properties": {
+        "authority": "Laois County Library",
+        "branch": "Borris-In-Ossory Library",
+        "address1": "Gracefield Shopping Centre",
+        "address2": "Borris-In-Ossory",
+        "address3": "Co. Laois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.39620338594096,
+          52.844709624077
+        ]
+      },
+      "properties": {
+        "authority": "Laois County Library",
+        "branch": "Durrow Library",
+        "address1": "Durrow",
+        "address2": "Co. Laois",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.32779152235319,
+          53.1148254195122
+        ]
+      },
+      "properties": {
+        "authority": "Laois County Library",
+        "branch": "Mountmellick Library",
+        "address1": "Mountmellick",
+        "address2": "Co. Laois",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.46967800252838,
+          52.999756402851
+        ]
+      },
+      "properties": {
+        "authority": "Laois County Library",
+        "branch": "Mountrath Library",
+        "address1": "Mountrath",
+        "address2": "Co. Laois",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1864489971527,
+          53.1577215499408
+        ]
+      },
+      "properties": {
+        "authority": "Laois County Library",
+        "branch": "Portarlington Library",
+        "address1": "Main Street",
+        "address2": "Portarlington",
+        "address3": "Co. Laois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.29789985788878,
+          53.0332798208447
+        ]
+      },
+      "properties": {
+        "authority": "Laois County Library",
+        "branch": "Portlaoise Library",
+        "address1": "Dunamaise House",
+        "address2": "Lyster Sq. , Portlaoise",
+        "address3": "Co. Laois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.73319744001239,
+          52.8552024562331
+        ]
+      },
+      "properties": {
+        "authority": "Laois County Library",
+        "branch": "Rathdowney Library",
+        "address1": "Rathdowney",
+        "address2": "Co. Laois",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.14568457991156,
+          53.0124211903309
+        ]
+      },
+      "properties": {
+        "authority": "Laois County Library",
+        "branch": "Stradbally Library",
+        "address1": "Stradbally",
+        "address2": "Co. Laois",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          90
+        ]
+      },
+      "properties": {
+        "authority": "Laois County Library",
+        "branch": "Timahoe Library",
+        "address1": "Timahoe",
+        "address2": "Co. Laois",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.80289110571017,
+          54.0523956679863
+        ]
+      },
+      "properties": {
+        "authority": "Leitrim County Library",
+        "branch": "Balinamore Branch & County Library HQ",
+        "address1": "Main Street",
+        "address2": "Ballinamore",
+        "address3": "Co. Leitrim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.09313478695021,
+          53.9472687600637
+        ]
+      },
+      "properties": {
+        "authority": "Leitrim County Library",
+        "branch": "Carrick-on-Shannon Library",
+        "address1": "Park Lane House",
+        "address2": "Carrick-on-Shannon",
+        "address3": "Co. Leitrim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.64446619154906,
+          53.9770168282717
+        ]
+      },
+      "properties": {
+        "authority": "Leitrim County Library",
+        "branch": "Carrigallen Library",
+        "address1": "Main Street ",
+        "address2": "Carrigallen",
+        "address3": "Co. Leitrim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.30267404283089,
+          54.2319545545426
+        ]
+      },
+      "properties": {
+        "authority": "Leitrim County Library",
+        "branch": "Dromahair Library",
+        "address1": "Dromahair",
+        "address2": "Co. Leitrim",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0410294664343,
+          54.0473653306802
+        ]
+      },
+      "properties": {
+        "authority": "Leitrim County Library",
+        "branch": "Drumshanbo Library",
+        "address1": "Market House",
+        "address2": "Drumshanbo",
+        "address3": "Co. Leitrim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.03789006140362,
+          54.3556456113228
+        ]
+      },
+      "properties": {
+        "authority": "Leitrim County Library",
+        "branch": "Kiltyclogher Library",
+        "address1": null,
+        "address2": "Kiltyclogher",
+        "address3": "Co. Leitrim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.23931233652857,
+          54.4487991932685
+        ]
+      },
+      "properties": {
+        "authority": "Leitrim County Library",
+        "branch": "Kinlough Library",
+        "address1": "Kinlough",
+        "address2": "Co. Leitrim",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.17420057061095,
+          54.3036348404507
+        ]
+      },
+      "properties": {
+        "authority": "Leitrim County Library",
+        "branch": "Manorhamilton Library",
+        "address1": "Library Corner",
+        "address2": "Manorhamilton",
+        "address3": "Co. Leitrim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.86485648685257,
+          53.9224633075686
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Mohill Library",
+        "address1": "Castle St.",
+        "address2": "Mohill",
+        "address3": "Co. Leitrim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.65415212243179,
+          52.6758015135169
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Caherdavin Library",
+        "address1": "The Community Centre",
+        "address2": "Caherdavin",
+        "address3": "Limerick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.62285624339884,
+          52.6660202762813
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "The Granary Library",
+        "address1": "The Granary",
+        "address2": "Michael Street",
+        "address3": "Limerick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.61639848519632,
+          52.6494080565046
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Roxboro Library",
+        "address1": "Thomond Shopping Centre",
+        "address2": "Roxboro",
+        "address3": "Limerick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.63815242620001,
+          52.6788548018057
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Watch House Cross Community Library",
+        "address1": "Watch House Cross",
+        "address2": "Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.30174789746828,
+          52.3827993025448
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Abbeyfeale Library",
+        "address1": "Bridge Street",
+        "address2": "Abbeyfeale",
+        "address3": "Co. Limerick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.78998241823932,
+          52.5647151357935
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Adare Library",
+        "address1": "Main Street",
+        "address2": "Adare",
+        "address3": "Co. Limerick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.95561788287619,
+          51.7920657215511
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Askeaton Library",
+        "address1": "Askeaton",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.86130602341906,
+          52.4724097644374
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Ballingarry Library",
+        "address1": "Ballingarry",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.97644734584432,
+          52.3456198496362
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Broadford Library",
+        "address1": "Broadford",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.28795725584871,
+          52.4651360012552
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Caherconlish Library",
+        "address1": "Caherconlish",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.33559457095062,
+          52.6162914785166
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Cappamore Library",
+        "address1": "Cappamore",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.64635346736227,
+          52.639334534694
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Dooradoyle Library",
+        "address1": "The Crescent Shopping Centre",
+        "address2": "Dooradoyle",
+        "address3": "Co. Limerick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.91006081288012,
+          52.339093655308
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Dromcollogher Library",
+        "address1": "Dromcollogher",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.88125178445276,
+          52.3899003976885
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Feenagh Library",
+        "address1": "Feenagh",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.10399942047034,
+          52.6099595234439
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Foynes Library",
+        "address1": "Main Street",
+        "address2": "Foynes",
+        "address3": "Co. Limerick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.29445444666175,
+          52.4003956786257
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Galbally Library",
+        "address1": "Galbally",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.28486243926808,
+          52.5705450307549
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Glin Library ",
+        "address1": "Glin",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43134831317481,
+          52.4708308601087
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Hospital Library",
+        "address1": "Hospital",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.47017257644571,
+          52.3586152851678
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Killfinane Library",
+        "address1": "Kilfinane",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.57807624261529,
+          52.4034298439929
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Kilmallock Library",
+        "address1": "Kilmallock",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.64610323999811,
+          52.6393988164502
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Limerick Studies",
+        "address1": "Lissanalta House",
+        "address2": "Dooradoyle Road",
+        "address3": "Limerick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.05604543739602,
+          52.4540946887539
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Newcastlewest Library",
+        "address1": "Gortboy",
+        "address2": "Newcastlewest",
+        "address3": "Co. Limerick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.86718292532777,
+          52.643137323191
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Pallaskenry Library",
+        "address1": "Pallaskenry",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.93956849304826,
+          52.52216780727
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Rathkeale Library ",
+        "address1": "Rathkeale",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.09961329899812,
+          52.5727879043636
+        ]
+      },
+      "properties": {
+        "authority": "Limerick City and County Library Service",
+        "branch": "Shanagolden Library",
+        "address1": "Shanagolden",
+        "address2": "Co. Limerick",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8028754515247,
+          54.052476515227
+        ]
+      },
+      "properties": {
+        "authority": "Longford County Library Service",
+        "branch": "Ballymahon Library",
+        "address1": "The Court House",
+        "address2": "Ballymahon",
+        "address3": "Co. Longford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.76914268099197,
+          53.8203605478905
+        ]
+      },
+      "properties": {
+        "authority": "Longford County Library Service",
+        "branch": "Drumlish Library",
+        "address1": "Mary St.",
+        "address2": "Drumlish",
+        "address3": "Co. Longford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6098238649912,
+          53.6967450801403
+        ]
+      },
+      "properties": {
+        "authority": "Longford County Library Service",
+        "branch": "Edgeworthstown Library",
+        "address1": "Pound Street",
+        "address2": "Edgeworthstown",
+        "address3": "Co. Longford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.49672901094497,
+          53.7775248172908
+        ]
+      },
+      "properties": {
+        "authority": "Longford County Library Service",
+        "branch": "Granard Library",
+        "address1": "Market House",
+        "address2": "Granard",
+        "address3": "Co. Longford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.98689441545732,
+          53.6717325222027
+        ]
+      },
+      "properties": {
+        "authority": "Longford County Library Service",
+        "branch": "Lanesboro Library",
+        "address1": "The Green",
+        "address2": "Lanesboro",
+        "address3": "Co. Longford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.78954262875588,
+          53.7286210147844
+        ]
+      },
+      "properties": {
+        "authority": "Longford County Library Service",
+        "branch": "Longford Branch & Library HQ",
+        "address1": "Town Centre",
+        "address2": "Longford",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.541159728599,
+          53.8586236040437
+        ]
+      },
+      "properties": {
+        "authority": "Louth County Library",
+        "branch": "Ardee Library",
+        "address1": "Market Square",
+        "address2": "Ardee",
+        "address3": "Co. Louth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.18806492932242,
+          54.0423213660233
+        ]
+      },
+      "properties": {
+        "authority": "Louth County Library",
+        "branch": "Carlingford Library",
+        "address1": "Newry Street",
+        "address2": "Carlingford",
+        "address3": "Co. Louth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.35337979597938,
+          53.7144355690133
+        ]
+      },
+      "properties": {
+        "authority": "Louth County Library",
+        "branch": "Drogheda Library",
+        "address1": "Stockwell Lane",
+        "address2": "Drogheda",
+        "address3": "Co. Louth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3979829041101,
+          54.0041232263641
+        ]
+      },
+      "properties": {
+        "authority": "Louth County Library",
+        "branch": "Dundalk Library & Library HQ",
+        "address1": "Roden Place",
+        "address2": "Dundalk",
+        "address3": "Co. Louth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.39887900468338,
+          53.8311687451293
+        ]
+      },
+      "properties": {
+        "authority": "Louth County Library",
+        "branch": "Dunleer Library",
+        "address1": "Station House",
+        "address2": "Dunleer",
+        "address3": "Co. Louth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.93001007446058,
+          53.9303236412281
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Achill Library",
+        "address1": "Achill Sound",
+        "address2": "Co. Mayo",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.15437943792606,
+          54.1140915270028
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Ballina Library",
+        "address1": "Pearse Street",
+        "address2": "Ballina",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.22105838164287,
+          53.6231159420428
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Ballinrobe Library",
+        "address1": "Main Street",
+        "address2": "Ballinrobe",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.76594781929704,
+          53.7621155401166
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Ballyhaunis Library",
+        "address1": "Clare Street",
+        "address2": "Ballyhaunis",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.98890638895077,
+          54.2221845220806
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Belmullet Library",
+        "address1": "Civic Centre",
+        "address2": "Belmullet",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.29834668143991,
+          53.8530802980275
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Castlebar Library & HQ",
+        "address1": "John Moore Road",
+        "address2": "Castlebar",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.79127945240456,
+          53.9637317795462
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Charlestown Library",
+        "address1": "Dublin Road",
+        "address2": "Charlestown",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.99699116779076,
+          53.7222859053464
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Claremorris Library",
+        "address1": "Dalton Street",
+        "address2": "Claremorris",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.31790366463308,
+          54.0997139374267
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Crossmolina Library",
+        "address1": "Ballina Street",
+        "address2": "Crossmolina",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.11270412342693,
+          53.9804879388448
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Foxford Library",
+        "address1": "Chapel Road",
+        "address2": "Foxford",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.0907065819082,
+          53.7062758021221
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Inishturk Library",
+        "address1": "Community Centre",
+        "address2": "Inishturk",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.85025061027439,
+          53.8712905749883
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Kilkelly Library ",
+        "address1": "Kilkelly",
+        "address2": "Co. Mayo",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9980078983592,
+          53.8508677258786
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Kiltimagh Library",
+        "address1": "Aidan Street",
+        "address2": "Kiltimagh",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.81022665258351,
+          53.7643381752323
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Louisburgh Library",
+        "address1": "Church Road",
+        "address2": "Louisburgh",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9497132750289,
+          53.9437574184799
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Swinford Library",
+        "address1": "Bridge Street",
+        "address2": "Swinford",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.52287303126118,
+          53.8012628277401
+        ]
+      },
+      "properties": {
+        "authority": "Mayo County Library",
+        "branch": "Westport Library",
+        "address1": "The Crescent",
+        "address2": "Westport",
+        "address3": "Co. Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.40016802045234,
+          53.5116901242563
+        ]
+      },
+      "properties": {
+        "authority": "Meath County Library",
+        "branch": "Ashbourne Library",
+        "address1": "1-2 Killegland Square Upper",
+        "address2": "Ashbourne",
+        "address3": "Co. Meath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91934834267176,
+          53.6219227116508
+        ]
+      },
+      "properties": {
+        "authority": "Meath County Library",
+        "branch": "Athboy Library",
+        "address1": "Main Street",
+        "address2": "Athboy",
+        "address3": "Co. Meath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.41530279652634,
+          53.6559087150202
+        ]
+      },
+      "properties": {
+        "authority": "Meath County Library",
+        "branch": "Duleek Library",
+        "address1": "Main Street",
+        "address2": "Duleek",
+        "address3": "Co. Meath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.47199806257063,
+          53.418645841128
+        ]
+      },
+      "properties": {
+        "authority": "Meath County Library",
+        "branch": "Dunboyne Library",
+        "address1": "Castle View",
+        "address2": "Dunboyne",
+        "address3": "Co. Meath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.53938844554968,
+          53.5088977688589
+        ]
+      },
+      "properties": {
+        "authority": "Meath County Library",
+        "branch": "Dunshaughlin Library",
+        "address1": "Main Street",
+        "address2": "Dunshaughlin",
+        "address3": "Co. Meath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.87654987263219,
+          53.7278621477687
+        ]
+      },
+      "properties": {
+        "authority": "Meath County Library",
+        "branch": "Kells Library",
+        "address1": "Maudlin Street",
+        "address2": "Kells",
+        "address3": "Co. Meath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.68542616255343,
+          53.6503720487467
+        ]
+      },
+      "properties": {
+        "authority": "Meath County Library",
+        "branch": "Navan Library & County Library HQ",
+        "address1": "Railway Street",
+        "address2": "Navan",
+        "address3": "Co. Meath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.75159036754314,
+          53.82327970466
+        ]
+      },
+      "properties": {
+        "authority": "Meath County Library",
+        "branch": "Nobber Library",
+        "address1": "Main Street",
+        "address2": "Nobber",
+        "address3": "Co. Meath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.16412600118605,
+          53.7641016977418
+        ]
+      },
+      "properties": {
+        "authority": "Meath County Library",
+        "branch": "Oldcastle Library",
+        "address1": "Millbrook Road",
+        "address2": "Oldcastle",
+        "address3": "Co. Meath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.86598504275258,
+          53.6169264893425
+        ]
+      },
+      "properties": {
+        "authority": "Meath County Library",
+        "branch": "Rathcairn",
+        "address1": "Ráth Cairn",
+        "address2": "Baile átha Buí",
+        "address3": "Co. Meath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.54783418000606,
+          53.7105247101896
+        ]
+      },
+      "properties": {
+        "authority": "Meath County Library",
+        "branch": "Slane Library",
+        "address1": "Castle Hill",
+        "address2": "Slane",
+        "address3": "Co. Meath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7903796525386,
+          53.5651392046469
+        ]
+      },
+      "properties": {
+        "authority": "Meath County Library",
+        "branch": "Trim Library",
+        "address1": "Main Street",
+        "address2": "Trim",
+        "address3": "Co. Meath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.90320588031005,
+          54.1285947568804
+        ]
+      },
+      "properties": {
+        "authority": "Monaghan County Library",
+        "branch": "Ballybay Library",
+        "address1": "Main Street",
+        "address2": "Ballybay",
+        "address3": "Co. Monaghan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.71991806663168,
+          53.978174418929
+        ]
+      },
+      "properties": {
+        "authority": "Monaghan County Library",
+        "branch": "Carrickmacross Library",
+        "address1": "Market Square",
+        "address2": "Carrickmacross",
+        "address3": "Co. Monaghan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.73365045260583,
+          54.114897510614
+        ]
+      },
+      "properties": {
+        "authority": "Monaghan County Library",
+        "branch": "Castleblayney Library",
+        "address1": "Iontas Arts Resource Centre",
+        "address2": "Conabury, Castleblayney",
+        "address3": "Co. Monaghan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.23312902006387,
+          54.1812273910124
+        ]
+      },
+      "properties": {
+        "authority": "Monaghan County Library",
+        "branch": "Clones Library & County Library HQ",
+        "address1": "98 Avenue",
+        "address2": "Clones",
+        "address3": "Co. Monaghan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.97125624610982,
+          54.2491421761745
+        ]
+      },
+      "properties": {
+        "authority": "Monaghan County Library",
+        "branch": "Monaghan Library",
+        "address1": "North Road",
+        "address2": "Monaghan",
+        "address3": "Co. Monaghan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.98684720862485,
+          53.190112004917
+        ]
+      },
+      "properties": {
+        "authority": "Offaly County Library",
+        "branch": "Banagher Library",
+        "address1": "Moore’s Corner",
+        "address2": "Banagher",
+        "address3": "Co. Offaly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.90874791519882,
+          53.0939772349841
+        ]
+      },
+      "properties": {
+        "authority": "Offaly County Library",
+        "branch": "Birr Library",
+        "address1": "Wilmer Road",
+        "address2": "Birr",
+        "address3": "Co. Offaly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.61746939875204,
+          53.342009854227
+        ]
+      },
+      "properties": {
+        "authority": "Offaly County Library",
+        "branch": "Clara Library",
+        "address1": "Clara",
+        "address2": "Co. Offaly",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.290925386107,
+          53.2971173335423
+        ]
+      },
+      "properties": {
+        "authority": "Offaly County Library",
+        "branch": "Daingean Library",
+        "address1": "Main Street",
+        "address2": "Daingean",
+        "address3": "Co. Offaly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.04783485369049,
+          53.3428056330343
+        ]
+      },
+      "properties": {
+        "authority": "Offaly County Library",
+        "branch": "Edenderry Library",
+        "address1": "J.K.L. Street",
+        "address2": "Edenderry",
+        "address3": "Co. Offaly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.82833672171309,
+          53.2696418678418
+        ]
+      },
+      "properties": {
+        "authority": "Offaly County Library",
+        "branch": "Ferbane Library",
+        "address1": "Gallen",
+        "address2": "Ferbane",
+        "address3": "Co. Offaly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.73031453863201,
+          53.1758953383487
+        ]
+      },
+      "properties": {
+        "authority": "Offaly County Library",
+        "branch": "Kilcormac Library",
+        "address1": "Main Street",
+        "address2": "Kilcormac",
+        "address3": "Co. Offaly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.49139940983825,
+          53.2742977790819
+        ]
+      },
+      "properties": {
+        "authority": "Offaly County Library",
+        "branch": "Tullamore Library & County Library HQ",
+        "address1": "O’Connor Square",
+        "address2": "Tullamore",
+        "address3": "Co. Offaly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.57875041990613,
+          53.902049164711
+        ]
+      },
+      "properties": {
+        "authority": "Roscommon County Library",
+        "branch": "Ballaghaderreen Library",
+        "address1": "Main Street",
+        "address2": "Ballaghaderreen",
+        "address3": "Co. Roscommon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.27183199906206,
+          53.4699448035804
+        ]
+      },
+      "properties": {
+        "authority": "Roscommon County Library",
+        "branch": "Ballyforan Library",
+        "address1": "Ballyforan",
+        "address2": "Co. Roscommon",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.30167670194033,
+          53.9727699317893
+        ]
+      },
+      "properties": {
+        "authority": "Roscommon County Library",
+        "branch": "Boyle Library",
+        "address1": "King House",
+        "address2": "Boyle",
+        "address3": "Co. Roscommon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.48840819763401,
+          53.7675395062961
+        ]
+      },
+      "properties": {
+        "authority": "Roscommon County Library",
+        "branch": "Castlerea Library",
+        "address1": "Main Street",
+        "address2": "Castlerea",
+        "address3": "Co. Roscommon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.19495239857311,
+          53.8459181378235
+        ]
+      },
+      "properties": {
+        "authority": "Roscommon County Library",
+        "branch": "Elphin Library",
+        "address1": "Main Street",
+        "address2": "Elphin",
+        "address3": "Co. Roscommon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.19443768538404,
+          53.6263014995462
+        ]
+      },
+      "properties": {
+        "authority": "Roscommon County Library",
+        "branch": "Roscommon Library & County Library HQ",
+        "address1": "Abbey Street",
+        "address2": "Roscommon",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.10286138110846,
+          53.7769462943779
+        ]
+      },
+      "properties": {
+        "authority": "Roscommon County Library",
+        "branch": "Strokestown Library",
+        "address1": "Bawn Street",
+        "address2": "Strokestown",
+        "address3": "Co. Roscommon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.51606419504722,
+          54.0900626823633
+        ]
+      },
+      "properties": {
+        "authority": "Sligo County Library",
+        "branch": "Ballymote Library",
+        "address1": "Teeling Street, ",
+        "address2": "Ballymote",
+        "address3": "Co. Sligo."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.47265510716674,
+          54.2728946229206
+        ]
+      },
+      "properties": {
+        "authority": "Sligo County Library",
+        "branch": "County Library HQ & Local Studies",
+        "address1": "Westward Town Centre",
+        "address2": "Bridge Street",
+        "address3": "Sligo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.09694992195911,
+          54.2108979569466
+        ]
+      },
+      "properties": {
+        "authority": "Sligo County Library",
+        "branch": "Enniscrone Library",
+        "address1": "Pier Street",
+        "address2": "Enniscrone",
+        "address3": "Co. Sligo."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.47268468081531,
+          54.2727956651062
+        ]
+      },
+      "properties": {
+        "authority": "Sligo County Library",
+        "branch": "Sligo Central Library",
+        "address1": "Stephen Street",
+        "address2": "Sligo",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.72834797927322,
+          54.0550156565134
+        ]
+      },
+      "properties": {
+        "authority": "Sligo County Library",
+        "branch": "Tubbercurry Community Library",
+        "address1": "Humbert Street",
+        "address2": "Tubbercurry",
+        "address3": "Co. Sligo."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.29932779587182,
+          53.2906584031241
+        ]
+      },
+      "properties": {
+        "authority": "South Dublin County Libraries",
+        "branch": "Ballyroan Library",
+        "address1": "Orchardstown Avenue",
+        "address2": "Rathfarnham",
+        "address3": "Dublin 14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.34198947156253,
+          53.295672372071
+        ]
+      },
+      "properties": {
+        "authority": "South Dublin County Libraries",
+        "branch": "Castletymon Library",
+        "address1": "Castletymon Shopping Centre",
+        "address2": "Castletymon",
+        "address3": "Tallaght, Dublin 24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.38849986303601,
+          53.3206584506416
+        ]
+      },
+      "properties": {
+        "authority": "South Dublin County Libraries",
+        "branch": "Clondalkin Library",
+        "address1": "Monastery Road",
+        "address2": "Clondalkin",
+        "address3": "Dublin 22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3736541298217,
+          53.2882888275532
+        ]
+      },
+      "properties": {
+        "authority": "South Dublin County Libraries",
+        "branch": "County Library",
+        "address1": "County Hall",
+        "address2": "Tallaght",
+        "address3": "Dublin 24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.36866272804317,
+          53.3558823421325
+        ]
+      },
+      "properties": {
+        "authority": "South Dublin County Libraries",
+        "branch": "John Jennings Library",
+        "address1": "Stewarts Hospital",
+        "address2": "Palmerstown",
+        "address3": "Dublin 20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.45276534471912,
+          53.3478977712446
+        ]
+      },
+      "properties": {
+        "authority": "South Dublin County Libraries",
+        "branch": "Lucan Library",
+        "address1": "Superquinn Shopping Centre",
+        "address2": "Lucan",
+        "address3": "County Dublin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.29326371431864,
+          53.2813499152251
+        ]
+      },
+      "properties": {
+        "authority": "South Dublin County Libraries",
+        "branch": "Whitechurch Library ",
+        "address1": "Taylor’s Lane",
+        "address2": "Rathfarnham",
+        "address3": "Dublin 16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.12939698800694,
+          52.9939661350295
+        ]
+      },
+      "properties": {
+        "authority": "Tipperary Joint Libraries Committee",
+        "branch": "Borrisokane Library",
+        "address1": "Fair Green",
+        "address2": "Borrisokane",
+        "address3": "Co. Tipperary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.92424808874073,
+          52.3748155807125
+        ]
+      },
+      "properties": {
+        "authority": "Tipperary Joint Libraries Committee",
+        "branch": "Cahir Library",
+        "address1": "The Square",
+        "address2": "Cahir",
+        "address3": "Co. Tipperary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.40970593250722,
+          52.3487641840684
+        ]
+      },
+      "properties": {
+        "authority": "Tipperary Joint Libraries Committee",
+        "branch": "Carrick-on-Suir Library",
+        "address1": "Fair Green",
+        "address2": "Carrick-on-Suir",
+        "address3": "Co. Tipperary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.88487204769025,
+          52.5166731220459
+        ]
+      },
+      "properties": {
+        "authority": "Tipperary Joint Libraries Committee",
+        "branch": "Cashel Library",
+        "address1": "Friar Street",
+        "address2": "Cashel",
+        "address3": "Co. Tipperary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.69938770854408,
+          52.3550784805695
+        ]
+      },
+      "properties": {
+        "authority": "Tipperary Joint Libraries Committee",
+        "branch": "Clonmel Library",
+        "address1": "Emmet Street",
+        "address2": "Clonmel",
+        "address3": "Co. Tipperary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.04408402766525,
+          52.9436174771385
+        ]
+      },
+      "properties": {
+        "authority": "Tipperary Joint Libraries Committee",
+        "branch": "Cloughjordan Library",
+        "address1": "Main Street",
+        "address2": "Cloughjordan",
+        "address3": "Co. Tipperary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.67294267030136,
+          52.5684626493011
+        ]
+      },
+      "properties": {
+        "authority": "Tipperary Joint Libraries Committee",
+        "branch": "Killenaule Library",
+        "address1": "Slieveardagh Centre, River Street",
+        "address2": "Killenaule",
+        "address3": "Co. Tipperary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.20017359808184,
+          52.8667657944043
+        ]
+      },
+      "properties": {
+        "authority": "Tipperary Joint Libraries Committee",
+        "branch": "Nenagh Library",
+        "address1": "O’Rahilly Street",
+        "address2": "Nenagh",
+        "address3": "Co. Tipperary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.79937500410624,
+          52.9581239907863
+        ]
+      },
+      "properties": {
+        "authority": "Tipperary Joint Libraries Committee",
+        "branch": "Roscrea Library",
+        "address1": "Birr Road",
+        "address2": "Roscrea",
+        "address3": "Co. Tipperary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.83630060127126,
+          52.7962501061823
+        ]
+      },
+      "properties": {
+        "authority": "Tipperary Joint Libraries Committee",
+        "branch": "Templemore Library",
+        "address1": "Old Mill Court",
+        "address2": "Templemore",
+        "address3": "Co. Tipperary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.80969167920568,
+          52.6790266368761
+        ]
+      },
+      "properties": {
+        "authority": "Tipperary Joint Libraries Committee",
+        "branch": "Thurles Library",
+        "address1": "The Source",
+        "address2": "Cathedral Street",
+        "address3": "Thurles, Co. Tipperary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.16412714568783,
+          52.4758806601133
+        ]
+      },
+      "properties": {
+        "authority": "Tipperary Joint Libraries Committee",
+        "branch": "Tipperary Town Library",
+        "address1": "Davis Street",
+        "address2": "Tipperary Town",
+        "address3": "Co. Tipperary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.08415133969841,
+          52.2469854462375
+        ]
+      },
+      "properties": {
+        "authority": "Waterford City and County Libraries",
+        "branch": "Ardkeen Library",
+        "address1": "Ardkeen Shopping Centre",
+        "address2": "Dunmore Road",
+        "address3": "Waterford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1378666736387,
+          52.2507967285224
+        ]
+      },
+      "properties": {
+        "authority": "Waterford City and County Libraries",
+        "branch": "Brown's Road Branch Library",
+        "address1": "Paddy Brown’s Road",
+        "address2": "Waterford",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.111064833505,
+          52.2595958053082
+        ]
+      },
+      "properties": {
+        "authority": "Waterford City and County Libraries",
+        "branch": "City Branch Library & Library HQ",
+        "address1": "Lady Lane",
+        "address2": "Waterford",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.84832183028249,
+          52.1466930602738
+        ]
+      },
+      "properties": {
+        "authority": "Waterford City and County Libraries",
+        "branch": "Cappoquin Library",
+        "address1": "Cappoquin",
+        "address2": "Co. Waterford",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.61855146374996,
+          52.0896698941327
+        ]
+      },
+      "properties": {
+        "authority": "Waterford City and County Libraries",
+        "branch": "Dungarvan Central Library",
+        "address1": "Davitt’s Quay",
+        "address2": "Dungarvan",
+        "address3": "Co. Waterford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.99445664441351,
+          52.1489673344943
+        ]
+      },
+      "properties": {
+        "authority": "Waterford City and County Libraries",
+        "branch": "Dunmore East Library",
+        "address1": "Fisherman’s Hall",
+        "address2": "Dunmore East",
+        "address3": "Co. Waterford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.42594144807593,
+          52.2057176107992
+        ]
+      },
+      "properties": {
+        "authority": "Waterford City and County Libraries",
+        "branch": "Kilmacthomas Library",
+        "address1": "Kilmacthomas",
+        "address2": "Co. Waterford",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.93503897131541,
+          52.1366153917296
+        ]
+      },
+      "properties": {
+        "authority": "Waterford City and County Libraries",
+        "branch": "Lismore Branch Library",
+        "address1": "Ballyanchor Road",
+        "address2": "Lismore",
+        "address3": "Co. Waterford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.31881820746732,
+          52.2877725820139
+        ]
+      },
+      "properties": {
+        "authority": "Waterford City and County Libraries",
+        "branch": "Portlaw Library",
+        "address1": "The Square",
+        "address2": "Portlaw",
+        "address3": "Co. Waterford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.00623139984067,
+          52.0925699979895
+        ]
+      },
+      "properties": {
+        "authority": "Waterford City and County Libraries",
+        "branch": "Tallow Library",
+        "address1": "Tallow",
+        "address2": "Co. Waterford",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.15261230517963,
+          52.1609514875809
+        ]
+      },
+      "properties": {
+        "authority": "Waterford City and County Libraries",
+        "branch": "Tramore Library",
+        "address1": "Market Street",
+        "address2": "Tramore",
+        "address3": "Co. Waterford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.93724559876398,
+          53.4241533079443
+        ]
+      },
+      "properties": {
+        "authority": "Westmeath County Library",
+        "branch": "Athlone Library",
+        "address1": "Civic Centre",
+        "address2": "Athlone",
+        "address3": "Co. Westmeath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.53831615591213,
+          53.5836015644256
+        ]
+      },
+      "properties": {
+        "authority": "Westmeath County Library",
+        "branch": "Ballynacarrigy Library",
+        "address1": "2 Kilmurray's Corner",
+        "address2": "Ballynacarrigy",
+        "address3": "Co. Westmeath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.29952801801685,
+          53.6780602956503
+        ]
+      },
+      "properties": {
+        "authority": "Westmeath County Library",
+        "branch": "Castlepollard Library",
+        "address1": "Civic Offices,",
+        "address2": "Castlepollard",
+        "address3": "Co. Westmeath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.49783953628515,
+          53.3682129195995
+        ]
+      },
+      "properties": {
+        "authority": "Westmeath County Library",
+        "branch": "Kilbeggan Library",
+        "address1": "The Square",
+        "address2": "Kilbeggan",
+        "address3": "Co. Westmeath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.14584715964967,
+          53.5082179698317
+        ]
+      },
+      "properties": {
+        "authority": "Westmeath County Library",
+        "branch": "Killucan Library",
+        "address1": "Rathwire Hall",
+        "address2": "Killucan",
+        "address3": "Co. Westmeath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.72190592949251,
+          53.3956273160022
+        ]
+      },
+      "properties": {
+        "authority": "Westmeath County Library",
+        "branch": "Moate Library",
+        "address1": "Main Street,",
+        "address2": "Moate",
+        "address3": "Co. Westmeath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.33079007393709,
+          53.5266510623229
+        ]
+      },
+      "properties": {
+        "authority": "Westmeath County Library",
+        "branch": "Mullingar Library",
+        "address1": "County Buildings, Mount Street,",
+        "address2": "Mullingar",
+        "address3": "Co. Westmeath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.65684027721651,
+          52.6552995607207
+        ]
+      },
+      "properties": {
+        "authority": "Wexford County Library",
+        "branch": "Bunclody Library",
+        "address1": "Millwood, Carrigduff",
+        "address2": "Bunclody",
+        "address3": "Co. Wexford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.57046795126686,
+          52.500355361118
+        ]
+      },
+      "properties": {
+        "authority": "Wexford County Library",
+        "branch": "Enniscorthy Library",
+        "address1": "Lymington Road",
+        "address2": "Enniscorthy",
+        "address3": "Co. Wexford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.29682186286428,
+          52.6728022755871
+        ]
+      },
+      "properties": {
+        "authority": "Wexford County Library",
+        "branch": "Gorey Library",
+        "address1": "Civic Square, The Avenue,",
+        "address2": "Gorey",
+        "address3": "Co. Wexford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.94203453481866,
+          52.3942126427173
+        ]
+      },
+      "properties": {
+        "authority": "Wexford County Library",
+        "branch": "New Ross Library",
+        "address1": "Barrack Lane",
+        "address2": "New Ross",
+        "address3": "Co. Wexford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.46370181946207,
+          52.3390190370497
+        ]
+      },
+      "properties": {
+        "authority": "Wexford County Library",
+        "branch": "Wexford Town Library",
+        "address1": "Malin Street",
+        "address2": "Wexford",
+        "address3": "Co. Wexford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.15522336786386,
+          52.7981028621484
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Arklow Library",
+        "address1": "Main Street",
+        "address2": "Arklow",
+        "address3": "Co. Wicklow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.32453531272319,
+          52.8561111960767
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Aughrim Library",
+        "address1": "Aughrim",
+        "address2": "County Wicklow",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.21306205252799,
+          52.857406916286
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Avoca Library",
+        "address1": "Avoca",
+        "address2": "County Wicklow",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.12401332422819,
+          53.1889942065804
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Ballywaltrim Library",
+        "address1": "Boghall Road",
+        "address2": "Bray",
+        "address3": "Co. Wicklow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.70653759326084,
+          52.941071527539
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Baltinglass Library",
+        "address1": "Baltinglass",
+        "address2": "Co. Wicklow",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.53740487368102,
+          53.1677424340704
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Blessington Library",
+        "address1": "Blessington",
+        "address2": "Co. Wicklow",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.10611939626051,
+          53.2038297434175
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Bray Library",
+        "address1": "Eglington Road",
+        "address2": "Bray",
+        "address3": "Co. Wicklow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.49828801975462,
+          52.7098545261196
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Carnew Library",
+        "address1": "Carnew",
+        "address2": "Co. Wicklow",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.70102147426279,
+          53.0585755402298
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Dunlavin Library",
+        "address1": "Market House",
+        "address2": "Dunlavin",
+        "address3": "Co. Wicklow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.17384285078932,
+          53.1940291321257
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Enniskerry Library",
+        "address1": "Enniskerry",
+        "address2": "Co. Wicklow",
+        "address3": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.46413178756441,
+          52.7990790919943
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Greystones Library",
+        "address1": "Church Road",
+        "address2": "Greystones",
+        "address3": "Co. Wicklow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0376972778399,
+          52.9792252461359
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Rathdrum Library",
+        "address1": "10 Gilbert’s Row",
+        "address2": "Rathdrum",
+        "address3": "Co. Wicklow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.46420590490971,
+          52.7990800513665
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Tinahely Library",
+        "address1": "The Court House",
+        "address2": "Tinahely",
+        "address3": "Co. Wicklow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.05049085365605,
+          52.9854943157855
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Wicklow Family History Centre",
+        "address1": "Wicklow County Archives,\nWicklow County Council,\nStation Road,\n",
+        "address2": "Wicklow",
+        "address3": "Co. Wicklow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0376972778399,
+          52.9792252461359
+        ]
+      },
+      "properties": {
+        "authority": "Wicklow County Library",
+        "branch": "Wicklow Library",
+        "address1": "Kilmantin Hill",
+        "address2": "Wicklow",
+        "address3": null
+      }
+    }
+  ]
+}

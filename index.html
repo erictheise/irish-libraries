@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Irish Libraries</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="js/jquery.min.js"></script>
+  <link rel="stylesheet" href="css/leaflet.css">
+  <script src="js/leaflet.js"></script>
+</head>
+<body>
+<div id="map" style="width: 800px; height: 600px"></div>
+
+<script>
+  function initMap() {
+    var tileUrl;
+
+    var map = L.map('map').setView([53.5, -8.0], 6);
+
+    tileUrl = 'https://{s}.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZXJpY3RoZWlzZSIsImEiOiJRT2VhSlU4In0.ChBaq2KxoiskL1-2fF309g';
+    L.tileLayer(tileUrl, {
+      minZoom: 6,
+      maxZoom: 21,
+      attribution: 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+          'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+      id: 'mapbox.emerald'
+
+    }).addTo(map);
+
+      $.ajax({
+        url: 'irish_libraries.geojson',
+        dataType: 'json',
+        type: 'get'
+      }).done(function (data) {
+          var geojson = L.geoJson(data, {
+            pointToLayer: function (feature, latlng) {
+              var
+                color, fillColor,
+                fillOpacity = 0.8;
+
+              //  Colours taken, with apologies, from:
+              //    http://www.discoveringireland.com/the-colors-of-the-counties-of-ireland/
+              //    http://home.connect.ie/morley/contae_e.htm
+
+              switch (feature.properties.authority) {
+                case 'Galway County Libraries':
+                  color = 'maroon';
+                  fillColor = 'white';
+                  break;
+                case 'Cork County Council  Library Service':
+                  color = 'red';
+                  fillColor = 'white';
+                  break;
+                case 'Limerick City and County Library Service':
+                  color = 'green';
+                  fillColor = 'white';
+                  break;
+                case 'Dublin City Public Libraries':
+                  color = 'darkblue';
+                  fillColor = 'deepskyblue';
+                  break;
+                case 'Mayo County Library':
+                  color = 'green';
+                  fillColor = 'red';
+                  break;
+                case 'Clare County Library':
+                  color = 'blue';
+                  fillColor = 'yellow';
+                  break;
+                case 'Kildare Library and Arts Services':
+                  color = 'black';
+                  fillColor = 'white';
+                  break;
+                case 'Wicklow County Library':
+                  color = 'blue';
+                  fillColor = 'yellow';
+                  break;
+                case 'Donegal County Library':
+                  color = 'green';
+                  fillColor = 'gold';
+                  break;
+                case 'Meath County Library':
+                  color = 'green';
+                  fillColor = 'gold';
+                  break;
+                case 'Tipperary Joint Libraries Committee':
+                  color = 'blue';
+                  fillColor = 'yellow';
+                  break;
+                case 'Laois County Library':
+                  color = 'blue';
+                  fillColor = 'white';
+                  break;
+                case 'Waterford City and County Libraries':
+                  color = 'blue';
+                  fillColor = 'white';
+                  break;
+                case 'Fingal County Libraries':
+                  color = 'white';
+                  fillColor = 'purple';
+                  break;
+                case 'Cavan County Library':
+                  color = 'blue';
+                  fillColor = 'white';
+                  break;
+                case 'Kerry County Library':
+                  color = 'green';
+                  fillColor = 'yellow';
+                  break;
+                case 'Offaly County Library':
+                  color = 'green';
+                  fillColor = 'gold';
+                  break;
+                case 'Kilkenny County Library Service':
+                  color = 'black';
+                  fillColor = 'orange';
+                  break;
+                case 'Dun Laoghaire-Rathdown Public Library Service':
+                  color = '';
+                  fillColor = '';
+                  break;
+                case 'Leitrim County Library':
+                  color = 'green';
+                  fillColor = 'gold';
+                  break;
+                case 'South Dublin County Libraries':
+                  color = 'green';
+                  fillColor = 'red';
+                  break;
+                case 'Cork City Libraries':
+                  color = 'black';
+                  fillColor = 'red';
+                  break;
+                case 'Roscommon County Library':
+                  color = 'blue';
+                  fillColor = 'yellow';
+                  break;
+                case 'Westmeath County Library':
+                  color = 'maroon';
+                  fillColor = 'white';
+                  break;
+                case 'Longford County Library Service':
+                  color = 'blue';
+                  fillColor = 'gold';
+                  break;
+                case 'Wexford County Library':
+                  color = 'purple';
+                  fillColor = 'gold';
+                  break;
+                case 'Sligo County Library':
+                  color = 'black';
+                  fillColor = 'white';
+                  break;
+                case 'Louth County Library':
+                  color = 'red';
+                  fillColor = 'white';
+                  break;
+                case 'Monaghan County Library':
+                  color = 'white';
+                  fillColor = 'blue';
+                  break;
+                case 'Carlow County Library':
+                  color = 'green';
+                  fillColor = 'red';
+                  break;
+                default:
+                  fillColor = '#222';
+                  fillOpacity = 0.1;
+                  break;
+              }
+
+              var marker = L.circleMarker(latlng, {
+                radius: 3,
+                weight: 1.75,
+                color: color,
+                opacity: 0.8,
+                fillColor: fillColor,
+                fillOpacity: fillOpacity
+              });
+
+              map.on('zoomend', function () {
+                var currentZoom = map.getZoom();
+                switch (currentZoom) {
+                  case 6:
+                  case 7:
+                    marker.setRadius(3);
+                    break;
+                  case 8:
+                  case 9:
+                    marker.setRadius(4);
+                    break;
+                  case 10:
+                  case 11:
+                  case 12:
+                  case 13:
+                  case 14:
+                  case 15:
+                  case 18:
+                  case 19:
+                  case 20:
+                  case 21:
+                    marker.setRadius(5);
+                    break;
+                }
+              });
+
+              return marker;
+            },
+            onEachFeature: function (feature, layer) {
+              layer.bindPopup(
+                '<div class="center">' +
+                  '<b>'+feature.properties.branch+'</b><br/>' +
+                  feature.properties.address1+'<br/>' +
+                  feature.properties.address2+'<br/>' +
+                  feature.properties.address3+'<br/>' +
+                '</div>'
+              );
+            }
+          }).addTo(map);
+        });
+
+  }
+
+  initMap();
+
+</script>
+</body>
+</html>
